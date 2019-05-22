@@ -1,0 +1,136 @@
+header#home.container-fluid { background-image: url("anh/header.jpg"); height: 660px; width: 100%; padding-left: 0px; padding-right: 0px; position: relative; }
+header#home.container-fluid div.row { position: absolute; background: black; /* Fallback color */ background: rgba(0, 0, 0, 0.3); /* Black background with 0.5 opacity */ width: 100%; margin-top: 100px; }
+header#home.container-fluid div.row p { font-size: 100px; line-height: 24px; color: #ffffff; font-family: "Oswald"; font-weight: 400; text-align: center; box-shadow: 0px 1px 30px rgba(0, 0, 0, 0.1); margin: auto; padding-top: 40px; }
+header#home.container-fluid p { width: 770px; height: 108px; font-size: 36px; line-height: 48px; color: #ffffff; font-family: "Lato"; font-weight: 700; text-align: center; margin: auto; padding-top: 300px; }
+header#home.container-fluid p label { background-color: orange; }
+
+div#Main.container { margin-bottom: 100px; }
+div#Main.container h1 { font-size: 36px; line-height: 24px; color: #f89a3d; font-family: "Oswald"; font-weight: 400; text-align: center; float: left; }
+div#Main.container ul { float: right; margin-top: 20px; margin-bottom: 10px; }
+div#Main.container ul li { float: left; list-style-type: none; margin-right: 10px; font-size: 18px; line-height: 24px; color: #566065; font-family: "Oswald"; font-weight: 400; }
+div#Main.container ul li:hover { color: #f89a3d; border-bottom: 1px solid #f89a3d; }
+
+div#about.container { text-align: center; }
+div#about.container div#headding.row p#subtitle { background: url("anh/headding.jpg"); width: 324px; height: 177px; margin-left: 430px; font-size: 50px; line-height: 24px; color: #ffffff; font-family: "Oswald"; font-weight: 400; text-align: center; padding-top: 80px; }
+div#about.container div#headding.row p#title { width: 970px; height: 114px; font-size: 30px; line-height: 40px; color: #566065; font-family: "Lato"; font-weight: 400; text-align: center; margin: 30px 0px 70px 100px; }
+
+div.container-fluid { background-color: #f5f5f5; width: 100%; text-align: center; }
+div.container-fluid div#features.container img { margin-bottom: 40px; }
+div.container-fluid div#features.container div.row .col-lg-4 p { width: 368px; height: 20px; font-size: 24px; line-height: 24px; color: #566065; font-family: "Oswald"; font-weight: 400; text-align: center; }
+div.container-fluid div#features.container div.row .col-lg-4 label { width: 339px; height: 20px; font-size: 16px; line-height: 24px; color: #566065; font-family: "Lato"; font-weight: 300; text-align: center; }
+div.container-fluid div#features.container div.row .col-lg-4 p:hover { color: #f89a3d; }
+div.container-fluid div#features.container div.row div#text-left.col-lg-2 { padding-left: 0px; padding-right: 0px; margin-top: 10px; font-size: 16px; line-height: 24px; color: #c3c3c3; font-family: "Lato"; font-weight: 300; text-align: center; }
+div.container-fluid div#features.container div.row div.col-lg-6 p { width: 570px; height: 100px; font-size: 16px; line-height: 24px; color: #566065; font-family: "Lato"; font-weight: 300; }
+div.container-fluid div#features.container div.row div.col-lg-6 div.w3-light { background: #555f65; }
+div.container-fluid div#features.container div.row div.col-lg-6 div.w3-light div.w3-orange label#bars-left { float: left; margin-top: 7px; font-size: 16px; line-height: 24px; color: #ffffff; font-family: "Lato"; font-weight: 300; text-align: right; }
+div.container-fluid div#features.container div.row div.col-lg-6 div.w3-light div.w3-orange label#bars-right { float: right; margin-top: 7px; font-size: 16px; line-height: 24px; color: #ffffff; font-family: "Lato"; font-weight: 300; }
+div.container-fluid div#features.container div.row p#fun { width: 1170px; height: 110px; font-size: 36px; line-height: 24px; color: #566065; font-family: "Oswald"; font-weight: 400; text-align: center; margin-top: 20px; }
+div.container-fluid div#features.container div.row div.col-md-3 p { width: 230px; height: 30px; font-size: 16px; line-height: 24px; color: #566065; font-family: "Lato"; font-weight: 300; text-align: center; }
+div.container-fluid div#features.container div.row div.col-md-3 p#number { width: 230px; height: 50px; font-size: 60px; line-height: 24px; color: #f89a3d; font-family: "Oswald"; font-weight: 400; text-align: center; }
+div.container-fluid div#features.container div.row div.col-md-3 label { width: 230px; height: 73px; font-size: 16px; line-height: 24px; color: #566065; font-family: "Lato"; font-weight: 300; text-align: center; }
+
+section.container-fluid { background: url("anh/quote.jpg"); width: 100%; height: 498px; text-align: center; margin-bottom: 100px; }
+section.container-fluid img { padding-top: 100px; margin-bottom: 30px; }
+section.container-fluid p { width: 700px; height: 151px; font-size: 36px; letter-spacing: 4px; line-height: 48px; color: #ffffff; font-family: "Oswald"; font-weight: 300; text-align: center; margin: auto; }
+section.container-fluid label { margin-top: 50px; width: 370px; height: 50px; font-size: 24px; letter-spacing: 2px; line-height: 48px; color: #ffffff; font-family: "Oswald"; font-weight: 300; text-align: center; }
+
+section#team.container { text-align: center; }
+section#team.container div#headding.row p#subtitle { background: url("anh/headding.jpg"); width: 324px; height: 177px; margin-left: 430px; font-size: 50px; line-height: 24px; color: #ffffff; font-family: "Oswald"; font-weight: 400; text-align: center; padding-top: 80px; }
+section#team.container div#headding.row p#title { width: 970px; height: 114px; font-size: 30px; line-height: 40px; color: #566065; font-family: "Lato"; font-weight: 400; text-align: center; margin: 30px 0px 70px 100px; }
+section#team.container div#headding.row p#title label { color: orange; }
+
+div.container-fluid { background-color: #f5f5f5; width: 100%; text-align: center; }
+div.container-fluid div#members.container img { margin-bottom: 40px; }
+div.container-fluid div#members.container div.row { margin-bottom: 70px; }
+div.container-fluid div#members.container div.row div.col-md-4 { background: white; width: 370px; padding-left: 0px; padding-right: 0px; margin-right: 20px; }
+div.container-fluid div#members.container div.row div.col-md-4 label#left { float: left; font-size: 18px; line-height: 40px; color: #566065; font-family: "Oswald"; font-weight: 400; }
+div.container-fluid div#members.container div.row div.col-md-4 label#right { float: right; font-size: 14px; line-height: 40px; color: #afb6ba; font-family: "Oswald"; font-weight: 400; }
+div.container-fluid div#members.container div.row div.col-md-4 label#center { float: left; text-align: left; width: 330px; height: 75px; font-size: 16px; line-height: 24px; color: #afb6ba; font-family: "Lato"; font-weight: 300; }
+div.container-fluid div#members.container div.row div#text-left.col-lg-2 { width: 250px; padding-left: 0px; padding-right: 0px; margin-top: 10px; font-size: 16px; line-height: 24px; color: #c3c3c3; font-family: "Lato"; font-weight: 300; text-align: center; }
+div.container-fluid div#members.container div.row div.col-lg-5 { width: 459px; padding-left: 0px; padding-right: 0px; }
+div.container-fluid div#members.container div.row label#text { width: 1170px; height: 80px; font-size: 36px; line-height: 24px; color: #566065; font-family: "Oswald"; font-weight: 400; text-align: center; }
+div.container-fluid div#members.container div.row label#text2 { width: 970px; height: 114px; font-size: 16px; line-height: 24px; color: #566065; font-family: "Lato"; font-weight: 300; text-align: center; }
+
+div#twitter.container-fluid { background: url("anh/twitter.jpg"); height: 552px; width: 100%; }
+div#twitter.container-fluid img { margin-top: 100px; margin-bottom: 40px; }
+div#twitter.container-fluid p { width: 770px; height: 151px; font-size: 36px; letter-spacing: 4px; line-height: 48px; color: #ffffff; font-family: "Oswald"; font-weight: 300; text-align: center; margin: auto; }
+div#twitter.container-fluid p label { color: orange; }
+div#twitter.container-fluid label#line1 { width: 370px; height: 30px; font-size: 24px; letter-spacing: 2px; line-height: 30px; color: #ffffff; font-family: "Oswald"; font-weight: 300; text-align: center; }
+div#twitter.container-fluid label#line2 { color: orange; font-size: 14px; font-family: "lato"; }
+
+section#twitter.container { text-align: center; }
+section#twitter.container div#headding.row p#subtitle { background: url("anh/headding.jpg"); width: 324px; height: 177px; margin-left: 430px; font-size: 50px; line-height: 24px; color: #ffffff; font-family: "Oswald"; font-weight: 400; text-align: center; padding-top: 80px; margin-top: 50px; }
+section#twitter.container div#headding.row p#title { width: 970px; height: 114px; font-size: 30px; line-height: 40px; color: #566065; font-family: "Lato"; font-weight: 400; text-align: center; margin: 30px 0px 70px 100px; }
+section#twitter.container div#headding.row p#title label { color: orange; }
+
+div.container-fluid { background-color: #f5f5f5; width: 100%; }
+div.container-fluid div#services.container img { margin-bottom: 40px; }
+div.container-fluid div#services.container div.row div.col-lg-6 div.row div.col-md-12 { text-align: left; }
+div.container-fluid div#services.container div.row div.col-lg-6 div.row div.col-md-12 label#line1 { font-size: 24px; letter-spacing: 1px; line-height: 18px; color: #566065; font-family: "Oswald"; font-weight: 400; }
+div.container-fluid div#services.container div.row div.col-lg-6 div.row div.col-md-12 label#line2 { width: 571px; height: 150px; font-size: 16px; line-height: 24px; color: #566065; font-family: "Lato"; font-weight: 300; }
+div.container-fluid div#services.container div.row div#text-left.col-lg-2 { width: 250px; padding-left: 0px; padding-right: 0px; margin-top: 10px; font-size: 16px; line-height: 24px; color: #c3c3c3; font-family: "Lato"; font-weight: 300; text-align: center; }
+div.container-fluid div#services.container div.row div.col-lg-5 { width: 459px; padding-left: 0px; padding-right: 0px; }
+div.container-fluid div#services.container div.row p#fun { width: 1170px; height: 110px; font-size: 36px; line-height: 24px; color: #566065; font-family: "Oswald"; font-weight: 400; text-align: center; margin-top: 40px; }
+div.container-fluid div#services.container div.row div.col-lg-3 label { margin-bottom: 0px; background-color: white; padding: 20px 20px 20px 20px; width: 300px; max-height: 200px; font-size: 16px; line-height: 24px; color: #282828; font-family: "Open Sans"; font-weight: 300; font-style: italic; text-align: left; }
+div.container-fluid div#services.container div.row div.col-lg-3 img { float: left; width: 40px; height: 20px; margin-left: 60px; }
+div.container-fluid div#services.container div.row div.col-lg-3 div.row div.col-md-6 { float: left; padding-left: 0px; padding-right: 0px; text-align: left; }
+div.container-fluid div#services.container div.row div.col-lg-3 div.row div.col-md-6 img { width: 110px; height: 101px; margin-left: 20px; margin-bottom: 0px; }
+div.container-fluid div#services.container div.row div.col-lg-3 div.row div.col-md-6 label#line1 { margin-top: 30px; background-color: #f5f5f5; font-size: 16px; line-height: 24px; color: #282828; font-family: "Open Sans"; font-weight: 300; padding: 0px 0px 0px 0px; }
+div.container-fluid div#services.container div.row div.col-lg-3 div.row div.col-md-6 label#line2 { padding: 0px 0px 0px 0px; background-color: #f5f5f5; width: 124px; height: 61px; font-size: 12px; line-height: 24px; color: #a9a9a9; font-family: "Open Sans"; font-weight: 300; font-style: italic; }
+
+div#action.container-fluid { background: url("anh/callaction.jpg"); width: 100%; height: 350px; }
+div#action.container-fluid label { margin-top: 60px; width: 100%; height: 147px; font-size: 36px; line-height: 48px; color: #ffffff; font-family: "Oswald"; font-weight: 300; text-align: center; }
+div#action.container-fluid button { background: #f7993d; font-size: 24px; letter-spacing: 2px; line-height: 48px; color: #ffffff; font-family: "Font Awesome"; text-align: center; }
+
+div#portfolio.container { text-align: center; }
+div#portfolio.container div#headding.row p#subtitle { background: url("anh/headding.jpg"); width: 324px; height: 177px; margin-left: 430px; font-size: 50px; line-height: 24px; color: #ffffff; font-family: "Oswald"; font-weight: 400; text-align: center; padding-top: 80px; margin-top: 50px; }
+div#portfolio.container div#headding.row p#title { width: 970px; height: 114px; font-size: 30px; line-height: 40px; color: #566065; font-family: "Lato"; font-weight: 400; text-align: center; margin: 30px 0px 70px 100px; }
+div#portfolio.container div#headding.row p#title label { color: orange; }
+
+div#sortbar.container-fluid { background-color: #f5f5f5; text-align: center; }
+div#sortbar.container-fluid div.row { margin-top: 100px; max-width: 100%; }
+div#sortbar.container-fluid div.row button.button { margin-right: 40px; padding: 10px 10px 10px 10px; background: #d8802a; font-size: 24px; line-height: 24px; color: #ffffff; font-family: "Lato"; font-weight: 300; text-align: center; border-radius: 16px; }
+div#sortbar.container-fluid div.row img { width: 400px; }
+
+div#pricing.container { text-align: center; }
+div#pricing.container div#headding.row p#subtitle { background: url("anh/headding.jpg"); width: 324px; height: 177px; margin-left: 430px; font-size: 50px; line-height: 24px; color: #ffffff; font-family: "Oswald"; font-weight: 400; text-align: center; padding-top: 80px; margin-top: 50px; }
+div#pricing.container div#headding.row p#title { width: 970px; height: 114px; font-size: 30px; line-height: 40px; color: #566065; font-family: "Lato"; font-weight: 400; text-align: center; margin: 30px 0px 70px 100px; }
+div#pricing.container div#headding.row p#title label { color: orange; }
+
+div#price1.container-fluid { text-align: center; }
+div#price1.container-fluid div#price2.container div.row div.col-lg-4 { border: 1px solid #dddddd; background: #ffffff; max-height: 1000px; padding-left: 0px; padding-right: 0px; }
+div#price1.container-fluid div#price2.container div.row div.col-lg-4 label { margin-top: 100px; background: url("anh/iconprice.jpg"); width: 140px; height: 139px; border: 1px solid white; padding-top: 55px; margin-bottom: 70px; }
+div#price1.container-fluid div#price2.container div.row div.col-lg-4 h3 { margin-bottom: 40px; }
+div#price1.container-fluid div#price2.container div.row div.col-lg-4 p { width: 100%; height: 50px; background: #f5f5f5; margin-bottom: 1px; font-size: 14px; letter-spacing: 1px; line-height: 24px; color: #000000; font-family: "Open Sans"; font-weight: 400; text-align: center; padding-top: 12px; }
+div#price1.container-fluid div#price2.container div.row div.col-lg-4 button { margin-bottom: 100px; margin-top: 100px; border-radius: 5px; height: 40px; width: 250px; background: #555f65; font-size: 18px; letter-spacing: 2px; line-height: 24px; color: #ffffff; font-family: "Font Awesome"; }
+
+div#company.container-fluid { background: url("anh/company.png"); width: 100%; height: 500px; text-align: center; }
+div#company.container-fluid p { font-size: 60px; letter-spacing: 6px; line-height: 24px; color: #ffffff; font-family: "Oswald"; font-weight: 700; text-align: center; margin-top: 100px; margin-bottom: 50px; }
+div#company.container-fluid p#line1 { width: 950px; height: 159px; font-size: 40px; letter-spacing: 5px; line-height: 72px; color: #ffffff; font-family: "Oswald"; font-weight: 300; text-align: center; margin: auto; }
+div#company.container-fluid label { font-size: 20px; letter-spacing: 3px; line-height: 72px; color: #ffffff; font-family: "Oswald"; font-weight: 300; background: black; /* Fallback color */ background: rgba(0, 0, 0, 0.3); /* Black background with 0.5 opacity */ }
+
+div#form.container-fluid { background: url("anh/contact.jpg"); width: 100%; height: 864px; }
+div#form.container-fluid form.container { margin-top: 200px; width: 300px; height: 450px; background-color: #ffffff; }
+div#form.container-fluid form.container input#name { margin-top: 40px; }
+div#form.container-fluid form.container input { margin-bottom: 20px; width: 250px; background-color: #f6f6f6; height: 40px; border: 1px solid #e6e6e6; }
+div#form.container-fluid form.container button { width: 250px; height: 30px; background-color: orange; border: none; }
+div#form.container-fluid form.container textarea { background-color: #f6f6f6; margin-bottom: 40px; }
+
+div#footer1.container-fluid { background-color: #333333; }
+div#footer1.container-fluid div.container hr { border-top: 1px solid #494949; }
+div#footer1.container-fluid div.container div.row div.col-lg-3 p { font-size: 18px; letter-spacing: 2px; line-height: 54px; color: #ffffff; font-family: "Oswald"; font-weight: 700; }
+div#footer1.container-fluid div.container div.row div.col-lg-3 label { text-align: left; width: 270px; height: 100px; font-size: 16px; line-height: 24px; color: #a9a9a9; font-family: "Lato"; font-weight: 300; }
+div#footer1.container-fluid div.container div.row div.col-lg-3 div.row { margin-bottom: 20px; }
+div#footer1.container-fluid div.container div.row div.col-lg-3 div.row div.col-md-8 label { height: 50px; width: 184px; font-size: 16px; line-height: 21px; color: #a9a9a9; font-family: "Lato"; font-weight: 300; }
+div#footer1.container-fluid div.container div.row div.col-lg-3 div.row div.col-md-8 label#date { height: 20px; margin-bottom: 0px; width: 184px; font-size: 14px; line-height: 21px; color: #6e6e6e; font-family: "Lato"; font-weight: 300; }
+div#footer1.container-fluid div.container div.row div.col-lg-3 div#tag.row { float: left; text-align: left; }
+div#footer1.container-fluid div.container div.row div.col-lg-3 div#tag.row ul li { float: left; list-style-type: none; text-align: center; font-size: 16px; line-height: 24px; color: #a9a9a9; font-family: "Lato"; font-weight: 300; background-color: #272727; margin-right: 10px; margin-bottom: 20px; padding-left: 15px; padding-right: 15px; }
+div#footer1.container-fluid div.container div.row div.col-lg-3 div#flickr.row img { float: left; width: 70px; height: 70px; text-align: left; margin-bottom: 10px; margin-right: 10px; }
+div#footer1.container-fluid div.container div.row ul li { margin-top: 20px; margin-right: 50px; color: white; list-style-type: none; float: left; }
+div#footer1.container-fluid div.container div.row ul li#connect { text-align: left; margin-right: 100px; margin-top: 0px; font-size: 18px; letter-spacing: 2px; line-height: 54px; color: #ffffff; font-family: "Oswald"; font-weight: 300; }
+
+div#footer2.container-fluid { background-color: #222222; }
+div#footer2.container-fluid div.container p.abc { margin-top: 20px; float: left; font-size: 16px; line-height: 24px; color: #a9a9a9; font-family: "Lato"; font-weight: 300; }
+div#footer2.container-fluid div.container p { font-size: 16px; line-height: 24px; color: #a9a9a9; font-family: "Open Sans"; font-weight: 300; text-align: right; margin-top: 20px; float: right; }
+
+/*# sourceMappingURL=sass.css.map */
